@@ -1,0 +1,11 @@
+{
+    "name": "servicemap-ui-turku",
+    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/City-of-Turku/servicemap-ui-turku.git"
+    },
+    "bugs": {
+      "url": "https://github.com/City-of-Turku/servicemap-ui-turku/issues"
+    }
+  }
